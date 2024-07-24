@@ -1,0 +1,8 @@
+**/*.ico
+**/*.png
+**/*.txt
+**/*.svg
+**/*.gitignore
+**/*.prettierignore
+**/*.gitkeep
+**/*.ttf
