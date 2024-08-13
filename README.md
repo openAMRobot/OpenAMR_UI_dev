@@ -46,21 +46,21 @@ This will generate a build folder containing the production-ready version of you
 
 *   **src:** Contains the source code of the application.
     
-    *   **app:**
+    *   **app:** ettings for entire project, configs, providers etc. Top app layer.
     
-    *   **assets:**
+    *   **assets:** assets such as images, fonts, etc
     
-    *   **components:**
+    *   **components:** most lower-level logic items of the app
         
-    *   **layouts:**
+    *   **layouts:** website layout layer that wrap pages for reusing components such as header, footer etc.
         
-    *   **pages:**
+    *   **pages:** pages layer, each of them have their own route, link several components into a coherent logical unit
         
-    *   **shared:**
+    *   **shared:** entities that can be used on any level of the app: styles, jsons, constants etc
         
-    *   **stores:**
+    *   **stores:** entities and logic that lives during all website lifecycle and the bus that transfers data between components and pages of the application
         
-*   **public:** public resources like libraries, etc.
+*   **public:** public resources like libraries, etc. Files that placed to build directory without any conversion or minification
   
     *   **ros:** different ros or js libraries
     
