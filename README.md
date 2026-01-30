@@ -1,3 +1,15 @@
+# OpenAMR UI Dev (Legacy)
+
+LEGACY REPOSITORY (REFERENCE ONLY)
+
+This repository is kept for historical reference (early UI development).
+Active UI development moved to:
+
+- Main UI repo: OpenAMRobot_UI (https://github.com/openAMRobot/OpenAMRobot_UI)
+
+Please open all new issues and pull requests in the main UI repository.
+This repo is not actively maintained.
+
 
 ### Project Overview
 ---------
